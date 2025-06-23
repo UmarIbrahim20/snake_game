@@ -92,13 +92,3 @@ pyinstaller --onefile --windowed snake_game.py
 
 The executable will be located in the `dist/` folder.
 
----
-
-## 👨‍💻 Author
-
-Crafted with passion in pixels and code.  
-Inspired by classic arcade nostalgia.
-
----
-
-Enjoy the game. And remember, boss... **Don’t bite your own tail.**
